@@ -1,0 +1,14 @@
+C:\Users\benca\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\MunicipalityApp.csproj.AssemblyReference.cache
+C:\Users\benca\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\MunicipalityApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\benca\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\MunicipalityApp.LocalEventsForm.resources
+C:\Users\benca\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\MunicipalityApp.MainMenuForm.resources
+C:\Users\benca\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\MunicipalityApp.Properties.Resources.resources
+C:\Users\benca\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\MunicipalityApp.ReportIssuesForm.resources
+C:\Users\benca\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\MunicipalityApp.csproj.GenerateResource.cache
+C:\Users\benca\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\MunicipalityApp.csproj.CoreCompileInputs.cache
+C:\Users\benca\source\repos\MunicipalityApp\MunicipalityApp\bin\Debug\MunicipalityApp.exe.config
+C:\Users\benca\source\repos\MunicipalityApp\MunicipalityApp\bin\Debug\MunicipalityApp.exe
+C:\Users\benca\source\repos\MunicipalityApp\MunicipalityApp\bin\Debug\MunicipalityApp.pdb
+C:\Users\benca\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\MunicipalityApp.exe
+C:\Users\benca\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\MunicipalityApp.pdb
+C:\Users\benca\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\MunicipalityApp.ServiceRequestStatusForm.resources
