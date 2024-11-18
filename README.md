@@ -1,11 +1,36 @@
 # Municipality Services Application - Implementation Report
 
 ## Table of Contents
-1. [Overview](#overview)
-2. [How to Run](#how-to-run)
-3. [Features](#features)
-4. [Data Structures Implementation](#data-structures-implementation)
-5. [Usage Guide](#usage-guide)
+1. [Getting Started](#getting-started)
+2. [Overview](#overview)
+3. [How to Run](#how-to-run)
+4. [Features](#features)
+5. [Data Structures Implementation](#data-structures-implementation)
+6. [Usage Guide](#usage-guide)
+
+## Getting Started
+
+### Cloning the Repository
+
+1. Open your terminal/command prompt
+2. Navigate to desired directory
+3. Run the following command:
+```git clone https://github.com/ST10132792/MunicipalityApp.git```
+4. Navigate into the project directory:
+```cd MunicipalityApp```
+
+### Prerequisites
+- Visual Studio 2019 or later
+- .NET Framework 4.8 or later
+- Git installed on your machine
+
+### Setting Up the Development Environment
+1. Open Visual Studio
+2. Go to File > Open > Project/Solution
+3. Navigate to the cloned repository
+4. Select the `MunicipalityApp.sln` file
+5. Wait for Visual Studio to load all dependencies
+6. Build the solution (Ctrl + Shift + B)
 
 ## Overview
 The Municipality Services Application is a Windows Forms application designed to manage municipal services, including issue reporting, event management, and service request tracking. This report focuses on the Service Request Status feature and its underlying data structures.
